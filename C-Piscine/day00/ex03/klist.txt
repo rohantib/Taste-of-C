@@ -1,0 +1,6 @@
+Credentials cache: API:25619
+        Principal: rtibrewa@42.US.ORG
+
+  Issued                Expires               Principal
+Jul  9 13:13:43 2018  Jul  9 23:13:43 2018  krbtgt/42.US.ORG@42.US.ORG
+Jul  9 13:53:25 2018  Jul  9 23:13:43 2018  host/vgs-fn1.42.us.org@42.US.ORG
